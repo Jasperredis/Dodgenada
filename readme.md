@@ -1,6 +1,7 @@
 # Dodgenada DEMO
 
 This game is in a **very** early stage of development. Most things are either *incomplete* or *missing entirely*.
+https://jris.straw.page/dodgenada
 
 ## Requirements
 - **Hardware**: Any system that can run Pygame should suffice.
