@@ -1,6 +1,3 @@
-# NOTE:
-I found that the hierarchies do not display corrrectly. Please view the code of this file to see them.
-
 # Release Hierarchy
 Dodgenada DEMO's GitHub repository does not contain its assets (png, wav, ect.).
 Here is a list of all assets in a file hierarchy, along with the rest of the project's hierarchy in a release and descriptions of each file.
