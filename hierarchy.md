@@ -46,7 +46,7 @@ DTEM
 │   ├── demo.ico - *The app icon*
 ├── readme.md - *The readme file*
 ├── demo.png - *PNG form of demo.ico, the app icon*
-└── demo.exe - *The main application*`
+└── demo.exe - *The main application*
 ```
 
 # Git Hierarchy
