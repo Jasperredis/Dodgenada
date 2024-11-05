@@ -3,18 +3,12 @@
 This game is in a **very** early stage of development. Most things are either *incomplete* or *missing entirely*.
 https://jris.straw.page/dodgenada
 
----
-
 ## Requirements
 - **Hardware**: Any system that can run Pygame should suffice.
 - **Software**: Make sure you have Pygame installed.
 
----
-
 # GitHub Notice:
 Assets (images and sounds) are not included in this repository, instead, they are included in the releases.
-
----
 
 ## License: MIT License
 Copyright 2024 jasperredis
